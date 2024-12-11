@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.player_0 {
+  background-color: white;
+}
+
+.player_1 {
+  background-color: red;
+}
+
+.player_2 {
+  background-color: blue;
+}
