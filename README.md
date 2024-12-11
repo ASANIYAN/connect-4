@@ -1,4 +1,4 @@
-# Connect-4 Game 🎲
+# Connect-4 Game
 
 A simple and fun implementation of the classic Connect-4 game that can be played locally between two players.
 
